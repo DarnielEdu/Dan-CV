@@ -1,0 +1,45 @@
+body{
+  background-color: #AAC4FF;
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+
+div {
+  height: 200px;
+}
+div{
+  padding: 65px;
+}
+h1{
+  text-align: center;
+  color:#3D8361;
+}
+h2 {
+  text-align: center;
+  color: #3D8361;
+}
+h3 {
+  color: #3D8361;
+}
+ .One{
+position: relative;
+padding-top: 100px;
+}
+.Two {
+
+}
+.Three {
+
+}
+
+.top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
